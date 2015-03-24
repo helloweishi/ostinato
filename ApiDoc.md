@@ -1,0 +1,3 @@
+Doxygen generated documentation for AbstractProtocol. If the frame below does not show or has problems, [open the documentation file directly](http://wiki.ostinato.googlecode.com/hg/html/class_abstract_protocol.html)
+
+<wiki:gadget url="http://wiki.wikignpi.googlecode.com/hg/gadgets/xhtmlgateway.xml" height="60" width="100%" border="0" up\_projectname="wikignpi" up\_subversion="hg" up\_xhtmlURL="http://wiki.ostinato.googlecode.com/hg/html/class\_abstract\_protocol.html" up\_baseURL="http://wiki.ostinato.googlecode.com/hg/html/" up\_autoresize="true" up\_openURLSInNewWindow="false" up\_waitmessage="Loading ..." />
